@@ -1,4 +1,2 @@
-# quora-question-pairs
-A NLP project to find weather given 2 questions are same are not semantically speaking.
-
+NLP-based machine learning project for detecting whether two Quora questions are semantically similar or duplicate.
 Dataset Link - https://www.kaggle.com/c/quora-question-pairs
